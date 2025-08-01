@@ -3,7 +3,15 @@
 This guide covers everything from connecting to your VPS via Termius to fully setting up Drosera, including Docker, trap configuration, operator registration, and getting testnet ETH.
 
 ---
+#### **💰 Budget VPS (Crypto Accepted)**
+1. **SpaceCore** - Contabo alternative, accepts crypto
+   [CLICK HERE](https://billing.spacecore.pro/billmgr?from=63882)
 
+2. **RackNerd** - From $10.96/year, 30+ crypto options  
+   [CLICK HERE](https://my.racknerd.com/aff.php?aff=14994)
+
+3. **HostVDS** - Russian servers, crypto payments  
+   [CLICK HERE](https://hostvds.com/?affiliate_uuid=f3d517f2-6e58-4549-9ecd-d280fa8cea3c)
 ## **📱 Step 1: Install Termius (Android/iOS)**
 Download Termius for mobile SSH access:
 - **Android**: [Termius on Google Play](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client)
